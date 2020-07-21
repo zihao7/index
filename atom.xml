@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zihao7.github.io/index/</id>
     <title>AD</title>
-    <updated>2020-07-21T15:13:06.066Z</updated>
+    <updated>2020-07-21T15:13:57.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zihao7.github.io/index/"/>
     <link rel="self" href="https://zihao7.github.io/index/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://zihao7.github.io/index/images/avatar.png</logo>
     <icon>https://zihao7.github.io/index/favicon.ico</icon>
     <rights>All rights reserved 2020, AD</rights>
+    <entry>
+        <title type="html"><![CDATA[钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟]]></title>
+        <id>https://zihao7.github.io/index/post/zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong/</id>
+        <link href="https://zihao7.github.io/index/post/zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong-zhong/">
+        </link>
+        <updated>2020-07-21T15:13:21.000Z</updated>
+        <content type="html"><![CDATA[<p>钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟钟</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接下两天要写入评论系统]]></title>
         <id>https://zihao7.github.io/index/post/jie-xia-liang-tian-yao-xie-ru-ping-lun-xi-tong/</id>
