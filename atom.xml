@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zihao7.github.io/</id>
+    <id>https://zihao7.github.io/index/</id>
     <title>AD</title>
-    <updated>2020-07-21T14:51:31.806Z</updated>
+    <updated>2020-07-21T14:58:38.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zihao7.github.io/"/>
-    <link rel="self" href="https://zihao7.github.io/atom.xml"/>
+    <link rel="alternate" href="https://zihao7.github.io/index/"/>
+    <link rel="self" href="https://zihao7.github.io/index/atom.xml"/>
     <subtitle>正在测试</subtitle>
-    <logo>https://zihao7.github.io/images/avatar.png</logo>
-    <icon>https://zihao7.github.io/favicon.ico</icon>
+    <logo>https://zihao7.github.io/index/images/avatar.png</logo>
+    <icon>https://zihao7.github.io/index/favicon.ico</icon>
     <rights>All rights reserved 2020, AD</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zihao7.github.io/post/hello-gridea/</id>
-        <link href="https://zihao7.github.io/post/hello-gridea/">
+        <id>https://zihao7.github.io/index/post/hello-gridea/</id>
+        <link href="https://zihao7.github.io/index/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
