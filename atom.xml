@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zihao7.github.io/ad.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-07-21T13:09:52.370Z</updated>
+    <title>AD</title>
+    <updated>2020-07-21T13:33:29.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zihao7.github.io/ad.github.io/"/>
     <link rel="self" href="https://zihao7.github.io/ad.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>正在测试</subtitle>
     <logo>https://zihao7.github.io/ad.github.io/images/avatar.png</logo>
     <icon>https://zihao7.github.io/ad.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, AD</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zihao7.github.io/ad.github.io/post/hello-gridea/</id>
